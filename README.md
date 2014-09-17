@@ -106,7 +106,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  _Practical_
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
  * Machine Learning for Hackers [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
- * Intro to scikit-learn, SciPy2013 [youtube tutorials](bit.ly/scikit-video-tuts)
+ * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
 
 * **Statistical Network Analysis & Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
@@ -180,6 +180,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 
 
  * **Visualization Packages**
+   * [matplotlib](http://www.ast.uct.ac.za/~sarblyth/pythonGuide/PythonPlottingBeginnersGuide.pdf) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Orange](http://bit.ly/software-orangeviz) - Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
 
 * **iPython Data Science Notebooks**
